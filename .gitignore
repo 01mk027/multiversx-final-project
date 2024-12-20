@@ -1,0 +1,20 @@
+target/
+Cargo.lock
+
+# MultiversX-specific files
+output/
+wasm/
+*.wasm
+*.abi.json
+*.metadata.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
